@@ -1,0 +1,23 @@
+<marquee direction="left" height="45" scrollamount="6" behavior="alternate">Hello! My photo and facebook link can't work</marquee>
+<html>
+<body>
+
+<h2>My Photo</h2>
+<img src="https://www.google.com.tw/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjNuJDX1I_eAhXJbrwKHThtCfsQjRx6BAgBEAU&url=http%3A%2F%2Fwww.dora-world.com.tw%2Fcharacter.php&psig=AOvVaw3GQzGQmGhcfRKnUKA-OuUP&ust=1539940786806748">
+
+</body>
+</html>
+<h1>About Me</h1>
+	<ol>
+		<li>Name：嚴怡詠</li>
+		<li>Grade: Department of Management of Information Systems freshman</li>
+	    <li>Club: mutual fund</li>
+	</ol>
+<h3>My Hobbies</h3>
+	<ol>
+		<li>Table tennis</li>
+		<li>read novels</li>
+	    <li>Basketball</li>
+	</ol>
+<h4>My Website </h4>
+<a href="https://www.facebook.com/profile.php?id=100012086268685">Facebook</a>
